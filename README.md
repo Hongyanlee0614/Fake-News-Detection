@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# Fake News Detection
 #### This repository is a task of classifying news articles as real or fake, as per required for the final examination of my Data Analytics subject.
 
 ![Fake News](https://github.com/Hongyanlee0614/Fake-News-Detection/blob/main/image.png)
